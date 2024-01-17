@@ -18,3 +18,10 @@ body{
   align-items: center;
   gap: 30px;
 }
+
+.main-photo1-div {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -8,6 +8,10 @@ import img5 from './cardsPhotos/5.jpg'
 import img6 from './cardsPhotos/6.jpg'
 import img7 from './cardsPhotos/7.jpg'
 import img8 from './cardsPhotos/8.jpg'
+import engi from './cardsPhotos/engineering.jpg'
+import expe from './cardsPhotos/experience.jpg'
+import lite from './cardsPhotos/literature.jpg'
+import travel from './cardsPhotos/travel.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -22,6 +26,10 @@ const PhotosAppScriptClass1 = () => {
         <img src={img6} alt="" />
         <img src={img7} alt="" />
         <img src={img8} alt="" />
+        <img src={engi} alt="" />
+        <img src={expe} alt="" />
+        <img src={lite} alt="" />
+        <img src={travel} alt="" />
       </div>
     </article>
   )
