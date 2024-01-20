@@ -12,6 +12,7 @@ import engi from './cardsPhotos/engineering.jpg'
 import expe from './cardsPhotos/experience.jpg'
 import lite from './cardsPhotos/literature.jpg'
 import travel from './cardsPhotos/travel.jpg'
+import people from './cardsPhotos/people.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -30,6 +31,7 @@ const PhotosAppScriptClass1 = () => {
         <img src={expe} alt="" />
         <img src={lite} alt="" />
         <img src={travel} alt="" />
+        <img src={people} alt="" />
       </div>
     </article>
   )
