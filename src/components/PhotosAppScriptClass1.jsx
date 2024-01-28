@@ -20,6 +20,7 @@ import escuela from './cardsPhotos/escuela.jpg'
 import estudiantes from './cardsPhotos/estudiantes.jpg'
 import evento from './cardsPhotos/evento.jpg'
 import entrevista from './cardsPhotos/entrevista.jpg'
+import entrevista from './ai.png'
 
 
 
@@ -48,6 +49,7 @@ const PhotosAppScriptClass1 = () => {
         <img src={estudiantes} alt="" />
         <img src={evento} alt="" />
         <img src={entrevista} alt="" />
+        <img src={ai} alt="" />
       </div>
     </article>
   )
