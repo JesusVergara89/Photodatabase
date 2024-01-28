@@ -20,7 +20,7 @@ import escuela from './cardsPhotos/escuela.jpg'
 import estudiantes from './cardsPhotos/estudiantes.jpg'
 import evento from './cardsPhotos/evento.jpg'
 import entrevista from './cardsPhotos/entrevista.jpg'
-import ai from './ai.png'
+import ai from './cardsPhotos/ai.png'
 
 
 
