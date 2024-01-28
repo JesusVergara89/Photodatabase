@@ -1,17 +1,5 @@
 import React from 'react'
 import './photosAppScriptClass1.css'
-import img1 from './cardsPhotos/1.jpg'
-import img2 from './cardsPhotos/2.png'
-import img3 from './cardsPhotos/3.png'
-import img4 from './cardsPhotos/4.jpg'
-import img5 from './cardsPhotos/5.jpg'
-import img6 from './cardsPhotos/6.jpg'
-import img7 from './cardsPhotos/7.jpg'
-import img8 from './cardsPhotos/8.jpg'
-import engi from './cardsPhotos/engineering.jpg'
-import expe from './cardsPhotos/experience.jpg'
-import lite from './cardsPhotos/literature.jpg'
-import travel from './cardsPhotos/travel.jpg'
 import people from './cardsPhotos/people.jpg'
 import microscope from './cardsPhotos/microscope.jpg'
 import arte from './cardsPhotos/arte.jpg'
@@ -21,6 +9,20 @@ import estudiantes from './cardsPhotos/estudiantes.jpg'
 import evento from './cardsPhotos/evento.jpg'
 import entrevista from './cardsPhotos/entrevista.jpg'
 import ai from './cardsPhotos/ai.png'
+import ascensor from './cardsPhotos/ascensor.jpg'
+import botella from './cardsPhotos/botella.png'
+import congreso from './cardsPhotos/congreso.jpg'
+import cubo from './cardsPhotos/cubo.jpg'
+import marlene from './cardsPhotos/Decanamarlene.jpg'
+import empren from './cardsPhotos/emprendedores.jpg'
+import game from './cardsPhotos/game.jpeg'
+import itsa from './cardsPhotos/itsa.jpg'
+import karam from './cardsPhotos/karam.jpg'
+import medalla from './cardsPhotos/medalla.png'
+import mejores from './cardsPhotos/mejores.jpg'
+import purdu from './cardsPhotos/purdu.jpg'
+import semilleros from './cardsPhotos/semilleros.jpeg'
+import territorio from './cardsPhotos/territorio.jpg'
 
 
 
@@ -29,18 +31,6 @@ const PhotosAppScriptClass1 = () => {
     <article className="main-photo1">
       <h2>Data base of cars photos</h2>
       <div className='main-photo1-div'>
-        <img src={img1} alt="" />
-        <img src={img2} alt="" />
-        <img src={img3} alt="" />
-        <img src={img4} alt="" />
-        <img src={img5} alt="" />
-        <img src={img6} alt="" />
-        <img src={img7} alt="" />
-        <img src={img8} alt="" />
-        <img src={engi} alt="" />
-        <img src={expe} alt="" />
-        <img src={lite} alt="" />
-        <img src={travel} alt="" />
         <img src={people} alt="" />
         <img src={microscope} alt="" />
         <img src={arte} alt="" />
@@ -50,6 +40,23 @@ const PhotosAppScriptClass1 = () => {
         <img src={evento} alt="" />
         <img src={entrevista} alt="" />
         <img src={ai} alt="" />
+
+        <img src={ascensor} alt="" />
+        <img src={botella} alt="" />
+        <img src={congreso} alt="" />
+        <img src={cubo} alt="" />
+        <img src={marlene} alt="" />
+        <img src={empren} alt="" />
+        <img src={game} alt="" />
+        <img src={itsa} alt="" />
+        <img src={karam} alt="" />
+
+        
+        <img src={medalla} alt="" />
+        <img src={mejores} alt="" />
+        <img src={purdu} alt="" />
+        <img src={semilleros} alt="" />
+        <img src={territorio} alt="" />
       </div>
     </article>
   )
