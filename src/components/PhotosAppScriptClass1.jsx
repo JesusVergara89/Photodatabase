@@ -24,6 +24,7 @@ import purdu from './cardsPhotos/purdu.jpg'
 import semilleros from './cardsPhotos/semilleros.jpeg'
 import territorio from './cardsPhotos/territorio.jpg'
 import letanias from './cardsPhotos/letanias.jpg'
+import induc from './cardsPhotos/induc2024.jpg'
 
 
 
@@ -60,6 +61,7 @@ const PhotosAppScriptClass1 = () => {
         <img src={territorio} alt="" />
 
         <img src={letanias} alt="" />
+        <img src={induc} alt="" />
       </div>
     </article>
   )
