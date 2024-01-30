@@ -26,6 +26,7 @@ import territorio from './cardsPhotos/territorio.jpg'
 import letanias from './cardsPhotos/letanias.jpg'
 import induc from './cardsPhotos/induc2024.jpg'
 import sedeFan from './cardsPhotos/sedefantasma.jpg'
+import carnaval from './cardsPhotos/carnaval.jpg'
 
 
 
@@ -64,6 +65,8 @@ const PhotosAppScriptClass1 = () => {
         <img src={letanias} alt="" />
         <img src={induc} alt="" />
         <img src={sedeFan} alt="" />
+
+        <img src={carnaval} alt="" />
       </div>
     </article>
   )
