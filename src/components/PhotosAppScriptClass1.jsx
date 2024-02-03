@@ -29,6 +29,7 @@ import sedeFan from './cardsPhotos/sedefantasma.jpg'
 import carnaval from './cardsPhotos/carnaval.jpg'
 import uninews from './cardsPhotos/ubibaNews.jpg'
 import concejeria from './cardsPhotos/concejeria2023.jpg'
+import korea2023 from './cardsPhotos/korea2023.jpg'
 
 
 const PhotosAppScriptClass1 = () => {
@@ -70,6 +71,8 @@ const PhotosAppScriptClass1 = () => {
         <img src={carnaval} alt="" />
         <img src={uninews} alt="" />
         <img src={concejeria} alt="" />
+
+        <img src={korea2023} alt="" />
       </div>
     </article>
   )
