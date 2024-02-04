@@ -4,7 +4,6 @@ import people from './cardsPhotos/people.jpg'
 import microscope from './cardsPhotos/microscope.jpg'
 import arte from './cardsPhotos/arte.jpg'
 import deporte from './cardsPhotos/deporte.jpg'
-import escuela from './cardsPhotos/escuela.jpg'
 import estudiantes from './cardsPhotos/estudiantes.jpg'
 import evento from './cardsPhotos/evento.jpg'
 import entrevista from './cardsPhotos/entrevista.jpg'
@@ -44,7 +43,6 @@ const PhotosAppScriptClass1 = () => {
         <img src={microscope} alt="" />
         <img src={arte} alt="" />
         <img src={deporte} alt="" />
-        <img src={escuela} alt="" />
         <img src={estudiantes} alt="" />
         <img src={evento} alt="" />
         <img src={entrevista} alt="" />
