@@ -34,6 +34,7 @@ import guacher2024 from './cardsPhotos/guacherna2024.jpg'
 import city from './cardsPhotos/city.jpg'
 import dospuentes from './cardsPhotos/dospuentes.jpg'
 import etica20231 from './cardsPhotos/finmedios.jpg'
+import tech12024 from './cardsPhotos/tech.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -82,6 +83,7 @@ const PhotosAppScriptClass1 = () => {
         <img src={dospuentes} alt="" />
 
         <img src={etica20231} alt="" />
+        <img src={tech12024} alt="" />
       </div>
     </article>
   )
