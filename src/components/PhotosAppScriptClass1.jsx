@@ -33,7 +33,7 @@ import induc12023 from './cardsPhotos/inducción12023.jpg'
 import guacher2024 from './cardsPhotos/guacherna2024.jpg'
 import city from './cardsPhotos/city.jpg'
 import dospuentes from './cardsPhotos/dospuentes.jpg'
-
+import etica20231 from './cardsPhotos/finmedios.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -80,6 +80,8 @@ const PhotosAppScriptClass1 = () => {
 
         <img src={city} alt="" />
         <img src={dospuentes} alt="" />
+
+        <img src={etica20231} alt="" />
       </div>
     </article>
   )
