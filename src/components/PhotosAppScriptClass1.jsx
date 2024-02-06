@@ -36,6 +36,10 @@ import dospuentes from './cardsPhotos/dospuentes.jpg'
 import etica20231 from './cardsPhotos/finmedios.jpg'
 import tech12024 from './cardsPhotos/tech.jpg'
 import peoplenews from './cardsPhotos/peoplenews.jpg'
+import robot from './cardsPhotos/robot.png'
+import economysup from './cardsPhotos/economysus.jpg'
+import cyberseg from './cardsPhotos/cybersegjpg'
+import cloudcomp from './cardsPhotos/cloudcomp.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -86,6 +90,11 @@ const PhotosAppScriptClass1 = () => {
         <img src={etica20231} alt="" />
         <img src={tech12024} alt="" />
         <img src={peoplenews} alt="" />
+
+        <img src={robot} alt="" />
+        <img src={economysup} alt="" />
+        <img src={cyberseg} alt="" />
+        <img src={cloudcomp} alt="" />
       </div>
     </article>
   )
