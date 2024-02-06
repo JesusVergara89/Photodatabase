@@ -1,6 +1,5 @@
 import './App.css'
 import PhotosAppScriptClass1 from './components/PhotosAppScriptClass1'
-import PhotosShoes from './components/PhotosShoes'
 
 function App() {
 
@@ -8,7 +7,6 @@ function App() {
     <div className="App">
 
       <PhotosAppScriptClass1/>
-      <PhotosShoes/>
       
     </div>
   )
