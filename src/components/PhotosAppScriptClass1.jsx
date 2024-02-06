@@ -38,7 +38,7 @@ import tech12024 from './cardsPhotos/tech.jpg'
 import peoplenews from './cardsPhotos/peoplenews.jpg'
 import robot from './cardsPhotos/robot.png'
 import economysup from './cardsPhotos/economysus.jpg'
-import cyberseg from './cardsPhotos/cybersegjpg'
+import cyberseg from './cardsPhotos/cyberseg.jpg'
 import cloudcomp from './cardsPhotos/cloudcomp.jpg'
 
 const PhotosAppScriptClass1 = () => {
