@@ -41,6 +41,8 @@ import economysup from './cardsPhotos/economysus.jpg'
 import cyberseg from './cardsPhotos/cyberseg.jpg'
 import cloudcomp from './cardsPhotos/cloudcomp.jpg'
 import flydata from './cardsPhotos/flyresult.jpg'
+import concurcarna2024 from './cardsPhotos/concursocarna2024.jpg'
+
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -98,6 +100,7 @@ const PhotosAppScriptClass1 = () => {
         <img src={cloudcomp} alt="" />
 
         <img src={flydata} alt="" />
+        <img src={concurcarna2024} alt="" />
       </div>
     </article>
   )
