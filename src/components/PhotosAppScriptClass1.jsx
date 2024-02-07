@@ -40,6 +40,7 @@ import robot from './cardsPhotos/robot.png'
 import economysup from './cardsPhotos/economysus.jpg'
 import cyberseg from './cardsPhotos/cyberseg.jpg'
 import cloudcomp from './cardsPhotos/cloudcomp.jpg'
+import flydata from './cardsPhotos/flyresult.jpg'
 
 const PhotosAppScriptClass1 = () => {
   return (
@@ -95,6 +96,8 @@ const PhotosAppScriptClass1 = () => {
         <img src={economysup} alt="" />
         <img src={cyberseg} alt="" />
         <img src={cloudcomp} alt="" />
+
+        <img src={flydata} alt="" />
       </div>
     </article>
   )
