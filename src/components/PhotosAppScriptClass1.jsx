@@ -42,6 +42,7 @@ import cyberseg from './cardsPhotos/cyberseg.jpg'
 import cloudcomp from './cardsPhotos/cloudcomp.jpg'
 import flydata from './cardsPhotos/flyresult.jpg'
 import concurcarna2024 from './cardsPhotos/concursocarna2024.jpg'
+import redsea from './cardsPhotos/redsea.jpg'
 
 
 const PhotosAppScriptClass1 = () => {
@@ -101,6 +102,7 @@ const PhotosAppScriptClass1 = () => {
 
         <img src={flydata} alt="" />
         <img src={concurcarna2024} alt="" />
+        <img src={redsea} alt="" />
       </div>
     </article>
   )
