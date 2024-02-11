@@ -46,6 +46,7 @@ import redsea from './cardsPhotos/redsea.jpg'
 import quianty from './cardsPhotos/quianty.jpg'
 import carna20241 from './cardsPhotos/carna20241.jpeg'
 import workdeporte from './cardsPhotos/workdeporte.jpg'
+import applevision from './cardsPhotos/applevision.jpg.png'
 
 
 const PhotosAppScriptClass1 = () => {
@@ -53,7 +54,7 @@ const PhotosAppScriptClass1 = () => {
   let arrayOfPhotos = [people,microscope,arte,deporte ,estudiantes,evento,entrevista, ai,ascensor,botella,
     congreso,cubo,marlene, empren,game,itsa, karam,medalla,mejores,purdu,semilleros,territorio,letanias,induc,sedeFan,
     carnaval,uninews,concejeria,korea2023,induc12023,guacher2024,city,dospuentes,etica20231,tech12024,peoplenews,robot,economysup,cyberseg,
-    cloudcomp,flydata,concurcarna2024,redsea,quianty,carna20241,workdeporte]
+    cloudcomp,flydata,concurcarna2024,redsea,quianty,carna20241,workdeporte, applevision]
 
   return (
     <article className="main-photo1">
