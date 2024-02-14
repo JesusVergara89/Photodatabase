@@ -52,6 +52,7 @@ import tyt12024 from './cardsPhotos/tyt12024.png'
 import especializacion12024 from './cardsPhotos/especializacion12024.png'
 import marketNew from './cardsPhotos/marketNew.jpg'
 import radio2024 from './cardsPhotos/radio2024.jpg'
+import valentin2024 from './cardsPhotos/valentin2024.jpg'
 
 
 const PhotosAppScriptClass1 = () => {
@@ -60,7 +61,7 @@ const PhotosAppScriptClass1 = () => {
     congreso,cubo,marlene, empren,game,itsa, karam,medalla,mejores,purdu,semilleros,territorio,letanias,induc,sedeFan,
     carnaval,uninews,concejeria,korea2023,induc12023,guacher2024,city,dospuentes,etica20231,tech12024,peoplenews,robot,economysup,cyberseg,
     cloudcomp,flydata,concurcarna2024,redsea,quianty,carna20241,workdeporte,applevision,mujerdia124,tyt12024,especializacion12024,marketNew,
-    radio2024]
+    radio2024,valentin2024]
 
   return (
     <article className="main-photo1">
