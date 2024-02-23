@@ -60,6 +60,7 @@ import pisa from './cardsPhotos/pisa.png'
 import purdueJoel from './cardsPhotos/purdueJoel.png'
 import soraAi from './cardsPhotos/soraAi.png'
 import socialjus from './cardsPhotos/socialjus.jpg'
+import acreditaciónExclencia from './cardsPhotos/acreditaciónExclencia.jpg'
 
 
 const PhotosAppScriptClass1 = () => {
@@ -68,7 +69,7 @@ const PhotosAppScriptClass1 = () => {
     congreso,cubo,marlene, empren,game,itsa, karam,medalla,mejores,purdu,semilleros,territorio,letanias,induc,sedeFan,
     carnaval,uninews,concejeria,korea2023,induc12023,guacher2024,city,dospuentes,etica20231,tech12024,peoplenews,robot,economysup,cyberseg,
     cloudcomp,flydata,concurcarna2024,redsea,quianty,carna20241,workdeporte,applevision,mujerdia124,tyt12024,especializacion12024,marketNew,
-    radio2024,valentin2024,ceniza2024,salinidad,mamacancer,pisa,purdueJoel,soraAi,socialjus]
+    radio2024,valentin2024,ceniza2024,salinidad,mamacancer,pisa,purdueJoel,soraAi,socialjus,acreditaciónExclencia]
 
   return (
     <article className="main-photo1">
