@@ -65,8 +65,15 @@ import aleja from './cardsPhotos/Aleja.jpg'
 import jesus from './cardsPhotos/Jesus.jpg'
 import brian from './cardsPhotos/Brian.jpg'
 import gilberto from './cardsPhotos/Gilberto.jpg'
-
-
+import agresados from './cardsPhotos/agresados.jpg'
+import akira from './cardsPhotos/akira.jpg'
+import block2024 from './cardsPhotos/block2024.jpg'
+import cplus from './cardsPhotos/cplus.png'
+import poesia from './cardsPhotos/poesia.jpg'
+import diamujer from './cardsPhotos/dia8mujer.jpg'
+import estanciapurdue from './cardsPhotos/estanciapurdue.jpg'
+import josemanuel from './cardsPhotos/josemanuel.jpg'
+import mathday from './cardsPhotos/mathday.jpg'
 
 const PhotosAppScriptClass1 = () => {
 
@@ -74,7 +81,8 @@ const PhotosAppScriptClass1 = () => {
     congreso,cubo,marlene, empren,game,itsa, karam,medalla,mejores,purdu,semilleros,territorio,letanias,induc,sedeFan,
     carnaval,uninews,concejeria,korea2023,induc12023,guacher2024,city,dospuentes,etica20231,tech12024,peoplenews,robot,economysup,cyberseg,
     cloudcomp,flydata,concurcarna2024,redsea,quianty,carna20241,workdeporte,applevision,mujerdia124,tyt12024,especializacion12024,marketNew,
-    radio2024,valentin2024,ceniza2024,salinidad,mamacancer,pisa,purdueJoel,soraAi,socialjus,acreditaciónExclencia, aleja, jesus, brian, gilberto]
+    radio2024,valentin2024,ceniza2024,salinidad,mamacancer,pisa,purdueJoel,soraAi,socialjus,acreditaciónExclencia, aleja, jesus, brian, gilberto
+  ,agresados,block2024,akira,cplus]
 
   return (
     <article className="main-photo1">

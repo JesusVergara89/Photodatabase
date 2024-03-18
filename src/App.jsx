@@ -1,11 +1,11 @@
+import { useState } from 'react';
 import './App.css'
 import PhotosAppScriptClass1 from './components/PhotosAppScriptClass1'
 
-function App() {
 
+function App() {
   return (
     <div className="App">
-
       <PhotosAppScriptClass1/>
       
     </div>
